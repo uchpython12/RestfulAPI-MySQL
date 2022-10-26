@@ -12,4 +12,5 @@ RestfulAPI_MySQL_API (MySQL常用方法)
 將MySQL讀取到的資料轉換成Dict後轉JSON,XML (網頁顯示)
 
 3.http讀取JSON,XML
-將http顯示的JSON,XML 在python 讀取
+將http顯示的JSON,XML 在python 讀取 
+注意 啟動3.時需啟動2. (RestfulAPI-Flask-MySQL_select-Dict-JSON-XML.py)
